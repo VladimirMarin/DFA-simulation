@@ -1,8 +1,8 @@
 # depslib dependency file v1.0
-1490736526 source:g:\c++\mydfa2\main.cpp
+1490740550 source:g:\c++\mydfa2\main.cpp
 	<iostream>
 	<iostream>
 	<fstream>
-	<string.h>
+	<string>
 	<stdlib.h>
 
